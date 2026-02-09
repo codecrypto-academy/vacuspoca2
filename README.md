@@ -1,2 +1,2 @@
-# Vacuspoca2
+# Vacuspoca
 ###### Codecrypto Academy Student Repo
